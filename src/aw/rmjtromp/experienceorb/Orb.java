@@ -67,11 +67,6 @@ public final class Orb implements Listener, Debuggable {
 		}
 	}
 	
-	public void Nigger()
-	{
-		
-	}
-	
 	public enum OrbFlag {
 		UNCOLLECTIBLE,
 		PERMANENT;
